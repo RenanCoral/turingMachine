@@ -1,20 +1,16 @@
 import javax.swing.*;
 
-public class Main extends JFrame {
+public class main extends JFrame {
     public static void main(String[] args) {
         try {
             UIManager.setLookAndFeel(UIManager.getSystemLookAndFeelClassName());
-        }
-        catch (UnsupportedLookAndFeelException e) {
+        } catch (UnsupportedLookAndFeelException e) {
             // handle exception
-        }
-        catch (ClassNotFoundException e) {
+        } catch (ClassNotFoundException e) {
             // handle exception
-        }
-        catch (InstantiationException e) {
+        } catch (InstantiationException e) {
             // handle exception
-        }
-        catch (IllegalAccessException e) {
+        } catch (IllegalAccessException e) {
             // handle exception
         }
         new window().setVisible(true);
