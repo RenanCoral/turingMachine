@@ -11,6 +11,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="window" />
       </list>
     </option>
   </component>
@@ -18,40 +19,34 @@
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="UI_DESIGNER_EDITOR_MODE.PaletteManager.WIDTH" value="231" />
+    <property name="UI_DESIGNER_EDITOR_MODE.UIDesignerToolWindowManager.SHOW" value="true" />
+    <property name="UI_DESIGNER_EDITOR_MODE.UIDesignerToolWindowManager.WIDTH" value="408" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="restartRequiresConfirmation" value="false" />
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="project.propGUI" />
   </component>
   <component name="RunManager">
-    <configuration name="main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="main" />
+    <configuration name="principal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="principal" />
       <module name="turingMachine" />
+      <option name="ENABLE_SWING_INSPECTOR" value="true" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.main" />
+        <item itemvalue="Application.principal" />
       </list>
     </recent_temporary>
-  </component>
-  <component name="ServiceViewManager">
-    <option name="viewStates">
-      <list>
-        <serviceView>
-          <treeState>
-            <expand />
-            <select />
-          </treeState>
-        </serviceView>
-      </list>
-    </option>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -72,29 +67,105 @@
     </ignored-roots>
   </component>
   <component name="WindowStateProjectService">
-    <state width="1921" height="289" key="GridCell.Tab.0.bottom" timestamp="1593821137020">
+    <state x="740" y="186" key="#com.intellij.codeInsight.i18n.I18nizeQuickFixDialog_Form" timestamp="1594250549007">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1921" height="289" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1593821137020" />
-    <state width="1921" height="289" key="GridCell.Tab.0.center" timestamp="1593821137020">
+    <state x="740" y="186" key="#com.intellij.codeInsight.i18n.I18nizeQuickFixDialog_Form/0.0.1920.1040@0.0.1920.1040" timestamp="1594250549007" />
+    <state x="448" y="188" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1594501694432">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1921" height="289" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1593821137020" />
-    <state width="1921" height="289" key="GridCell.Tab.0.left" timestamp="1593821137019">
+    <state x="448" y="188" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1594501694432" />
+    <state x="765" y="236" key="#com.intellij.ide.util.MemberChooser" timestamp="1594501830760">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1921" height="289" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1593821137019" />
-    <state width="1921" height="289" key="GridCell.Tab.0.right" timestamp="1593821137020">
+    <state x="765" y="236" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1594501830760" />
+    <state x="690" y="267" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog" timestamp="1594480781748">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1921" height="289" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1593821137020" />
-    <state x="461" y="163" key="SettingsEditor" timestamp="1593821158532">
+    <state x="690" y="267" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1594480781748" />
+    <state x="741" y="299" key="#com.intellij.uiDesigner.palette.ComponentItemDialog" timestamp="1594500335201">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="461" y="163" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1593821158532" />
-    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1593821150945">
+    <state x="741" y="299" key="#com.intellij.uiDesigner.palette.ComponentItemDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1594500335201" />
+    <state x="718" y="390" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1594500313065">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1593821150945" />
+    <state x="718" y="390" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1920.1040@0.0.1920.1040" timestamp="1594500313065" />
+    <state x="534" y="341" width="826" height="504" key="ConfigureClientPropertiesDialog" timestamp="1594502343197">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="534" y="341" width="826" height="504" key="ConfigureClientPropertiesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1594502343197" />
+    <state x="861" y="283" key="EnvironmentVariablesDialog" timestamp="1594501679012">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="861" y="283" key="EnvironmentVariablesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1594501679012" />
+    <state width="1921" height="191" key="GridCell.Tab.0.bottom" timestamp="1594594162068">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1921" height="191" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1594594162068" />
+    <state width="1921" height="191" key="GridCell.Tab.0.center" timestamp="1594594162067">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1921" height="191" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1594594162067" />
+    <state width="1921" height="191" key="GridCell.Tab.0.left" timestamp="1594594162067">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1921" height="191" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1594594162067" />
+    <state width="1921" height="191" key="GridCell.Tab.0.right" timestamp="1594594162068">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1921" height="191" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1594594162068" />
+    <state width="1899" height="348" key="GridCell.Tab.1.bottom" timestamp="1594477763902">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="348" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1594477763902" />
+    <state width="1899" height="348" key="GridCell.Tab.1.center" timestamp="1594477763902">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="348" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1594477763902" />
+    <state width="1899" height="348" key="GridCell.Tab.1.left" timestamp="1594477763902">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="348" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1594477763902" />
+    <state width="1899" height="348" key="GridCell.Tab.1.right" timestamp="1594477763902">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="348" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1594477763902" />
+    <state x="578" y="0" width="1123" height="672" key="GuiDesigner.FormSource.Dialog" timestamp="1594483077925">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="578" y="0" width="1123" height="672" key="GuiDesigner.FormSource.Dialog/0.0.1920.1040@0.0.1920.1040" timestamp="1594483077925" />
+    <state x="461" y="163" key="SettingsEditor" timestamp="1594501998259">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="163" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1594501998259" />
+    <state x="730" y="400" key="com.intellij.uiDesigner.propertyInspector.editors.string.StringEditorDialog" timestamp="1594500769294">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="730" y="400" key="com.intellij.uiDesigner.propertyInspector.editors.string.StringEditorDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1594500769294" />
+    <state x="376" y="203" key="new project wizard" timestamp="1594568375966">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="376" y="203" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1594568375966" />
+    <state x="755" y="267" key="refactoring.ChangeSignatureDialog" timestamp="1594501843340">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="755" y="267" key="refactoring.ChangeSignatureDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1594501843340" />
+    <state x="616" y="240" key="run.anything.popup" timestamp="1594479323685">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="616" y="240" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1594479323685" />
+    <state x="740" y="325" key="save.file.as.template.dialog" timestamp="1594483174868">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="325" key="save.file.as.template.dialog/0.0.1920.1040@0.0.1920.1040" timestamp="1594483174868" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1594479644117">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1594479644117" />
+    <state x="682" y="432" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1594477852457">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="682" y="432" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1594477852457" />
   </component>
 </project>
