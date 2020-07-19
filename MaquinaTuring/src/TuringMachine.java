@@ -95,6 +95,8 @@ public class TuringMachine extends JFrame {
 		contentPane.setBorder(new EmptyBorder(5, 5, 5, 5));
 		contentPane.setLayout(new BorderLayout(0, 0));
 		setContentPane(contentPane);
+		setTitle("Máquina de Turing");
+		setLocationRelativeTo(null);
 
 		JTabbedPane tabbedPane = new JTabbedPane(JTabbedPane.TOP);
 		contentPane.add(tabbedPane, BorderLayout.CENTER);
@@ -263,7 +265,7 @@ public class TuringMachine extends JFrame {
 					model.addColumn("Ler");
 					model.addColumn("Proximo Estado");
 					model.addColumn("Escrever");
-					model.addColumn("Dire��o");
+					model.addColumn("Direção");
 
 					TableColumn tbcEstado = table.getColumnModel().getColumn(0);
 					TableColumn tbcLer = table.getColumnModel().getColumn(1);
@@ -281,6 +283,10 @@ public class TuringMachine extends JFrame {
 					cbxDirecao.addItem("Direita");
 					tbcDirecao.setCellEditor(new DefaultCellEditor(cbxDirecao));
 
+//					 model.addRow(new Object[0]);
+//					if (txtTextfield.getText().isEmpty())
+//						JOptionPane.showMessageDialog(null, "Deve-se ter valores para gerar tabela");
+					//
 					if (valorSpinner < 0) {
 						JOptionPane.showMessageDialog(null, "Apenas valores positivos");
 					}
@@ -292,30 +298,37 @@ public class TuringMachine extends JFrame {
 					model.addRow(new String[] { ">", ">", "Q0", ">", "Direita" });
 
 					for (int i = 0; i < valorSpinner; i++) {
-						
+
 						cbxEscrever.addItem(split[i]);
 						cbxLer.addItem(split[i]);
 						cbxProEstados.addItem("Q" + i);
 						if (valorSpinner - 1 == i) {
 							cbxProEstados.addItem("Final");
-//							cbxEscrever.addItem(split[i + 1]);
+							cbxEscrever.addItem(split[i + 1]);
 							cbxLer.addItem(split[i + 1]);
+							cbxLer.addItem(split[i + 2]);
 						}
 						tbcProEstado.setCellEditor(new DefaultCellEditor(cbxProEstados));
 						tbcEscrever.setCellEditor(new DefaultCellEditor(cbxEscrever));
 						tbcLer.setCellEditor(new DefaultCellEditor(cbxLer));
 
 						for (int j = 0; j < split.length; j++) {
-							
-							if(split.length - 1 != j)
+							if (split.length - 1 != j) {
 								model.addRow(new String[] { "Q" + i });
+							}
+//							cbxLer.addItem(split[j]);
+//							if(split.length -1== j)
+//							if(split[j]!=split[j+1]) {
+//								if(split.length-2==j)
+//								cbxLer.addItem(split[j+1]);
+//							}	
+//							tbcLer.setCellEditor(new DefaultCellEditor(cbxLer));
 
 						}
 					}
 
 				} else
 					JOptionPane.showMessageDialog(null, "RECRIAR TABELA");
-
 			}
 		});
 		btnGerarTabela.setPreferredSize(new Dimension(100, 25));
@@ -342,8 +355,8 @@ public class TuringMachine extends JFrame {
 		btnExcluirLinha.addActionListener(new ActionListener() {
 			public void actionPerformed(ActionEvent e) {
 
-				for (int i = model.getRowCount() - 1; i > -1; i--) {
-
+				for (int i = 0; i < model.getRowCount(); i++) {
+					System.out.println("A linha selecionada é " + i);
 					if (table.isRowSelected(i)) {
 						model.removeRow(i);
 						break;
@@ -351,7 +364,6 @@ public class TuringMachine extends JFrame {
 						JOptionPane.showMessageDialog(null, "Precisa selecionar uma linha antes de excluir!");
 						break;
 					}
-
 				}
 			}
 		});
@@ -369,10 +381,9 @@ public class TuringMachine extends JFrame {
 
 						if (model.getValueAt(i, j) == null) {
 							JOptionPane.showMessageDialog(null, "Os campos devem estar preenchido!");
-							
+
 						} else {
 							try {
-								System.out.println(""+ table.getValueAt(i, j));
 								gravarArquivo(path, (String) model.getValueAt(i, j));
 							} catch (IOException e1) {
 								e1.printStackTrace();

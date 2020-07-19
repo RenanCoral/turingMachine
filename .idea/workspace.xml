@@ -1,29 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2a4f310b-d378-40d1-8476-766ea42bbd3e" name="Default Changelist" comment="" />
+    <list default="true" id="df64fd9b-3594-4da8-b272-c6275dc00dec" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="CodeStyleSettingsInfer">
-    <option name="done" value="true" />
-  </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="window" />
-        <option value="Class" />
-        <option value="JUnit5 Test Class" />
-      </list>
-    </option>
-  </component>
-  <component name="ProjectCodeStyleSettingsMigration">
-    <option name="version" value="1" />
-  </component>
-  <component name="ProjectId" id="1eCJS8SIgfMmUEadBuuzqK0K166" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectId" id="1eunEInnGDyX6IbFVDH76sHynYb" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -31,196 +15,40 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="UI_DESIGNER_EDITOR_MODE.PaletteManager.SHOW" value="false" />
-    <property name="UI_DESIGNER_EDITOR_MODE.PaletteManager.WIDTH" value="231" />
-    <property name="UI_DESIGNER_EDITOR_MODE.UIDesignerToolWindowManager.SHOW" value="true" />
-    <property name="UI_DESIGNER_EDITOR_MODE.UIDesignerToolWindowManager.WIDTH" value="331" />
-    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
-    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
-    <property name="create.test.in.the.same.root" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="restartRequiresConfirmation" value="false" />
-    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
-    <property name="settings.editor.selected.configurable" value="project.propGUI" />
   </component>
-  <component name="RecentsManager">
-    <key name="CreateTestDialog.RecentsKey">
-      <recent name="" />
-    </key>
-    <key name="CreateTestDialog.Recents.Supers">
-      <recent name="" />
-    </key>
-  </component>
-  <component name="RunManager" selected="Application.principal">
-    <configuration name="Button" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Button" />
-      <module name="turingMachine" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="principal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
+  <component name="RunManager">
+    <configuration name="java" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="C:\Program Files\Java\jdk1.8.0_181\jre" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
-      <option name="MAIN_CLASS_NAME" value="principal" />
-      <module name="turingMachine" />
-      <option name="ENABLE_SWING_INSPECTOR" value="true" />
+      <option name="MAIN_CLASS_NAME" value="TuringMachine.java" />
+      <module name="MaquinaTuring" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Application.principal" />
-        <item itemvalue="Application.Button" />
-      </list>
-    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="2a4f310b-d378-40d1-8476-766ea42bbd3e" name="Default Changelist" comment="" />
-      <created>1593819638914</created>
+      <changelist id="df64fd9b-3594-4da8-b272-c6275dc00dec" name="Default Changelist" comment="" />
+      <created>1595180231521</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1593819638914</updated>
+      <updated>1595180231521</updated>
     </task>
     <servers />
   </component>
-  <component name="VcsManagerConfiguration">
-    <ignored-roots>
-      <path value="$PROJECT_DIR$" />
-    </ignored-roots>
-  </component>
   <component name="WindowStateProjectService">
-    <state x="740" y="186" key="#com.intellij.codeInsight.i18n.I18nizeQuickFixDialog_Form" timestamp="1594250549007">
+    <state x="387" y="181" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1595180624361">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="740" y="186" key="#com.intellij.codeInsight.i18n.I18nizeQuickFixDialog_Form/0.0.1920.1040@0.0.1920.1040" timestamp="1594250549007" />
-    <state x="578" y="253" key="#com.intellij.debugger.ui.breakpoints.BreakpointsConfigurationDialogFactory.BreakpointsConfigurationDialog.AddFieldBreakpointDialog" timestamp="1594839820052">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="578" y="253" key="#com.intellij.debugger.ui.breakpoints.BreakpointsConfigurationDialogFactory.BreakpointsConfigurationDialog.AddFieldBreakpointDialog/0.0.1366.728@0.0.1366.728" timestamp="1594839820052" />
-    <state x="448" y="188" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1594501694432">
+    <state x="387" y="181" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1595180624361" />
+    <state x="660" y="322" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1595180622827">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="448" y="188" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1594501694432" />
-    <state x="544" y="159" key="#com.intellij.ide.util.MemberChooser" timestamp="1594839818047">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="544" y="159" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1594839818047" />
-    <state x="765" y="236" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1594501830760" />
-    <state x="413" y="153" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1594839799526">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="413" y="153" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1366.728@0.0.1366.728" timestamp="1594839799525" />
-    <state x="690" y="267" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog" timestamp="1594480781748">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="690" y="267" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1594480781748" />
-    <state x="741" y="299" key="#com.intellij.uiDesigner.palette.ComponentItemDialog" timestamp="1594500335201">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="741" y="299" key="#com.intellij.uiDesigner.palette.ComponentItemDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1594500335201" />
-    <state x="718" y="390" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1594500313065">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="718" y="390" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1920.1040@0.0.1920.1040" timestamp="1594500313065" />
-    <state x="534" y="341" width="826" height="504" key="ConfigureClientPropertiesDialog" timestamp="1594502343197">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="534" y="341" width="826" height="504" key="ConfigureClientPropertiesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1594502343197" />
-    <state x="861" y="283" key="EnvironmentVariablesDialog" timestamp="1594501679012">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="861" y="283" key="EnvironmentVariablesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1594501679012" />
-    <state width="1323" height="225" key="GridCell.Tab.0.bottom" timestamp="1594942310910">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state width="1323" height="225" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1594942310910" />
-    <state width="1921" height="191" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1594594162068" />
-    <state width="1323" height="225" key="GridCell.Tab.0.center" timestamp="1594942310910">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state width="1323" height="225" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1594942310910" />
-    <state width="1921" height="191" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1594594162067" />
-    <state width="1323" height="225" key="GridCell.Tab.0.left" timestamp="1594942310910">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state width="1323" height="225" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1594942310910" />
-    <state width="1921" height="191" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1594594162067" />
-    <state width="1323" height="225" key="GridCell.Tab.0.right" timestamp="1594942310910">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state width="1323" height="225" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1594942310910" />
-    <state width="1921" height="191" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1594594162068" />
-    <state width="1323" height="223" key="GridCell.Tab.1.bottom" timestamp="1594840741844">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state width="1323" height="223" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1594840741844" />
-    <state width="1899" height="348" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1594477763902" />
-    <state width="1323" height="223" key="GridCell.Tab.1.center" timestamp="1594840741844">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state width="1323" height="223" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1594840741844" />
-    <state width="1899" height="348" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1594477763902" />
-    <state width="1323" height="223" key="GridCell.Tab.1.left" timestamp="1594840741844">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state width="1323" height="223" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1594840741844" />
-    <state width="1899" height="348" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1594477763902" />
-    <state width="1323" height="223" key="GridCell.Tab.1.right" timestamp="1594840741844">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state width="1323" height="223" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1594840741844" />
-    <state width="1899" height="348" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1594477763902" />
-    <state x="578" y="0" width="1123" height="672" key="GuiDesigner.FormSource.Dialog" timestamp="1594483077925">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="578" y="0" width="1123" height="672" key="GuiDesigner.FormSource.Dialog/0.0.1920.1040@0.0.1920.1040" timestamp="1594483077925" />
-    <state x="461" y="163" key="SettingsEditor" timestamp="1594501998259">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="461" y="163" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1594501998259" />
-    <state x="454" y="177" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1594749804606">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="454" y="177" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1366.728@0.0.1366.728" timestamp="1594749804606" />
-    <state x="730" y="400" key="com.intellij.uiDesigner.propertyInspector.editors.string.StringEditorDialog" timestamp="1594500769294">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="730" y="400" key="com.intellij.uiDesigner.propertyInspector.editors.string.StringEditorDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1594500769294" />
-    <state x="340" y="98" width="862" height="630" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1594839828460">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="340" y="98" width="862" height="630" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1366.728@0.0.1366.728" timestamp="1594839828460" />
-    <state x="376" y="203" key="new project wizard" timestamp="1594568375966">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="376" y="203" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1594568375966" />
-    <state x="755" y="267" key="refactoring.ChangeSignatureDialog" timestamp="1594501843340">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="755" y="267" key="refactoring.ChangeSignatureDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1594501843340" />
-    <state x="438" y="168" key="run.anything.popup" timestamp="1594833349788">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="438" y="168" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1594833349788" />
-    <state x="616" y="240" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1594479323685" />
-    <state x="740" y="325" key="save.file.as.template.dialog" timestamp="1594483174868">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="740" y="325" key="save.file.as.template.dialog/0.0.1920.1040@0.0.1920.1040" timestamp="1594483174868" />
-    <state x="443" y="158" width="672" height="475" key="search.everywhere.popup" timestamp="1594782343954">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="443" y="158" width="672" height="475" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1594782343954" />
-    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1594479644117" />
-    <state x="682" y="432" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1594477852457">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="682" y="432" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1594477852457" />
+    <state x="660" y="322" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1595180622827" />
   </component>
 </project>
