@@ -96,6 +96,7 @@
                     </constraints>
                     <properties>
                       <editable value="false"/>
+                      <text value=""/>
                     </properties>
                   </component>
                   <component id="a83f9" class="javax.swing.JTextField" binding="textField4" default-binding="true">
@@ -200,7 +201,7 @@
                       <text value="Valores de entrada"/>
                     </properties>
                   </component>
-                  <component id="69444" class="javax.swing.JButton" binding="novaLinhaButton" default-binding="true">
+                  <component id="69444" class="javax.swing.JButton" binding="novaLinhaButton" custom-create="true" default-binding="true">
                     <constraints>
                       <grid row="1" column="2" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="1" use-parent-layout="false"/>
                     </constraints>
@@ -224,7 +225,7 @@
                       <text value="Concluir"/>
                     </properties>
                   </component>
-                  <component id="19bd3" class="javax.swing.JButton" binding="gerarTextoButton" default-binding="true">
+                  <component id="19bd3" class="javax.swing.JButton" binding="gerarTextoButton" custom-create="true" default-binding="true">
                     <constraints>
                       <grid row="1" column="1" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="1" use-parent-layout="false"/>
                     </constraints>
@@ -255,12 +256,13 @@
                   <component id="eae3f" class="javax.swing.JTable" binding="create" custom-create="true">
                     <constraints/>
                     <properties>
-                      <autoCreateRowSorter value="true"/>
+                      <autoCreateRowSorter value="false"/>
                       <cellSelectionEnabled value="true"/>
                       <dropMode value="USE_SELECTION"/>
                       <enabled value="true"/>
                       <fillsViewportHeight value="true"/>
                       <font name="Segoe UI Emoji" size="13" style="0"/>
+                      <preferredScrollableViewportSize width="450" height="400"/>
                     </properties>
                     <clientProperties>
                       <JTable.autoStartsEdit class="java.lang.Boolean" value="true"/>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/org.eclipse.swt"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-13">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/org.eclipse.swt/swt.jar" sourcepath="/org.eclipse.swt/src.zip">
+		<attributes>
+			<attribute name="javadoc_location" value="http://help.eclipse.org/stable/nftopic/org.eclipse.platform.doc.isv/reference/api/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="swing2swt.jar"/>
+	<classpathentry kind="lib" path="C:/Users/breno/.p2/pool/plugins/org.eclipse.core.databinding_1.9.0.v20200519-1409.jar" sourcepath="C:/Users/breno/.p2/pool/plugins/org.eclipse.core.databinding_1.9.0.v20200519-1409.jar"/>
+	<classpathentry kind="lib" path="C:/Users/breno/.p2/pool/plugins/org.eclipse.core.databinding.beans_1.6.100.v20191217-1850.jar" sourcepath="C:/Users/breno/.p2/pool/plugins/org.eclipse.core.databinding.beans_1.6.100.v20191217-1850.jar"/>
+	<classpathentry kind="lib" path="C:/Users/breno/.p2/pool/plugins/org.eclipse.core.databinding.observable_1.9.0.v20200205-2119.jar" sourcepath="C:/Users/breno/.p2/pool/plugins/org.eclipse.core.databinding.observable_1.9.0.v20200205-2119.jar"/>
+	<classpathentry kind="lib" path="C:/Users/breno/.p2/pool/plugins/org.eclipse.core.databinding.property_1.8.0.v20200124-0715.jar" sourcepath="C:/Users/breno/.p2/pool/plugins/org.eclipse.core.databinding.property_1.8.0.v20200124-0715.jar"/>
+	<classpathentry kind="lib" path="C:/Users/breno/.p2/pool/plugins/org.eclipse.jface.databinding_1.11.100.v20200522-1835.jar" sourcepath="C:/Users/breno/.p2/pool/plugins/org.eclipse.jface.databinding_1.11.100.v20200522-1835.jar"/>
+	<classpathentry kind="lib" path="C:/Users/breno/.p2/pool/plugins/org.eclipse.equinox.common_3.12.0.v20200504-1602.jar" sourcepath="C:/Users/breno/.p2/pool/plugins/org.eclipse.equinox.common_3.12.0.v20200504-1602.jar"/>
+	<classpathentry kind="lib" path="C:/Users/breno/.p2/pool/plugins/com.ibm.icu_64.2.0.v20190507-1337.jar" sourcepath="C:/Users/breno/.p2/pool/plugins/com.ibm.icu_64.2.0.v20190507-1337.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
